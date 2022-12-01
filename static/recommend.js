@@ -24,6 +24,8 @@ $(function() {
   });
 });
 
+
+// this shit is not working pandas not working
 // will be invoked when clicking on the recommended movies
 function recommendcard(e){
   var my_api_key = 'ce2f9528b880ea6e29592271d69808d7';
